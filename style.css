@@ -20,6 +20,7 @@ h3 {
 }
 section {
    display: flex;
+   padding-bottom: 150px;
 }
 .half-width {
    width: 50%;
@@ -34,4 +35,9 @@ section {
    padding: 10px 40px;
    color: white;
    border-radius: 5px;
+}
+.dream-big {
+   background-image: url(/images/dream-bg.png);
+   background-repeat: no-repeat;
+   background-position: right;
 }
